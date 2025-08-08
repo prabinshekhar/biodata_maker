@@ -1,3 +1,48 @@
+# 📝 Biodata Maker - React App
+
+Create beautiful and printable biodata (marriage profile) documents effortlessly with this lightweight, responsive, and customizable web application. Built using **React**, this app helps users generate biodata forms and export them as printable PDFs.
+
+## 🌐 Live Demo
+
+👉 [Try it live on Vercel](https://your-vercel-link.vercel.app)
+
+## 📸 Screenshots
+
+> Add screenshots or GIFs here to showcase the app UI  
+*(Use: `/public/screenshot.png` and embed using Markdown: `![Screenshot](public/screenshot.png)`)*
+  
+## 🚀 Features
+
+- 📄 Create beautiful biodata (marriage profile)
+- ✏️ Fill in personal, family, and education details
+- 🖼️ Upload and preview profile photo
+- 🎨 Customize fields (optional)
+- 📥 Export or print as PDF
+- ⚡ Fast and mobile responsive
+- 🖍️ Pre-designed template layout
+
+## 🛠️ Tech Stack
+
+- React.js (with Hooks)
+- HTML5 & CSS3
+- Vite or Create React App (depending on your setup)
+- [html2canvas](https://github.com/niklasvh/html2canvas) + [jsPDF](https://github.com/parallax/jsPDF) for PDF generation
+- Vercel (for deployment)
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/biodata-maker.git
+cd biodata-maker
+npm install
+npm start
+
+
+
+
+
+
+
 <<<<<<< HEAD
 # biodata_maker
 =======
